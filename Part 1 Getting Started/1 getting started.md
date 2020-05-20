@@ -4,7 +4,7 @@
 
 Swift is a general purpose programming language that was first released in 2014. Today Swift powers over 1 billion iOS devices, as well as other mobile and desktop applications and services. Swift is a safe, fast, and expressive language that is meant to be a replacement for C-based languages. Swift was developed by Apple, however, it was made open-source under the Apache License in 2015. Swift has quickly climbed the ranks in terms of popularity of programming languages. As of May 2020, Swift was ranked #11 in the TIOBE index (up from #18 in May 2019). Apple releases a new and improved version of Swift each year, with Swift 5 being the most recent.
 
-![](https://github.com/UbikCapital/ICON-Swift-Tutorials/blob/master/Part%201%20Getting%20Started/images/1-new-xcode-project.png)
+![](https://github.com/thelionshire/ICON-Swift-Tutorial/blob/master/Part%201%20Getting%20Started/images/1-new-xcode-project.png)
 
 # Getting Started with Swift
 
