@@ -24,7 +24,7 @@ The opportunities for creation are endless. Depending on your programming experi
 
 For this tutorial, we will create a new project and select a single view application for simplicity purposes (although any type will work). We name our project SwiftTutorial (the workspace is shown below).
 
-![](https://github.com/UbikCapital/ICON-Swift-Tutorials/blob/master/Part%201%20Getting%20Started/images/1-import-iconsdk.png)
+![](https://github.com/thelionshire/ICON-Swift-Tutorial/blob/master/Part%201%20Getting%20Started/images/1-import-iconsdk.png)
 
 # How to Integrate the ICON SDK into Xcode
 
@@ -32,14 +32,14 @@ You need to include the ICON Swift SDK in order to use ICON functionality direct
 
 Using Terminal, navigate to your Swift project main directory. Once there, run the command `pod init` to create a Podfile with the proper compilation targets, according to your project. Add the latest version of ICONKit to the Podfile by adding: `pod ‘ICONKit’, ‘~> 0.4.3’` (this adds ICONKit version 0.4.3. You can find the latest version of ICONKit by going to the ICON SDK Github page). Your Podfile should look similar to the below image (note that for simplicity we exclude the test targets)
 
-![](https://github.com/UbikCapital/ICON-Swift-Tutorials/blob/master/Part%201%20Getting%20Started/images/1-import-iconkit.png)
+![](https://github.com/thelionshire/ICON-Swift-Tutorial/blob/master/Part%201%20Getting%20Started/images/1-import-iconkit.png)
 
 Now run: `pod install` to install the dependent libraries. You will see the dependencies downloaded and installed, as shown below.
 
-![](https://github.com/UbikCapital/ICON-Swift-Tutorials/blob/master/Part%201%20Getting%20Started/images/1-install-dependencies.png)
+![](https://github.com/thelionshire/ICON-Swift-Tutorial/blob/master/Part%201%20Getting%20Started/images/1-install-dependencies.png)
 
 After installing the pod, you will notice a difference when you navigate to your project main directory. There is a new ‘.xcworkspace’ file extension for the project. Open this file to open the main project and pod dependencies. In Xcode, you will now see your main project (SwiftTutorial in our case) as well as Pods (as shown below).
 
-![](https://github.com/UbikCapital/ICON-Swift-Tutorials/blob/master/Part%201%20Getting%20Started/images/1-swift-project.png)
+![](https://github.com/thelionshire/ICON-Swift-Tutorial/blob/master/Part%201%20Getting%20Started/images/1-swift-project.png)
 
 That’s it! You have successfully created a project and integrated the ICON Swift SDK. Now you can add `import ICONKit` to your Swift files in your project to add ICON functionality to your project.
