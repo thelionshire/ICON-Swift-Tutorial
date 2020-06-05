@@ -21,14 +21,14 @@ Now that we have the basic functionality to connect to the ICON network, we will
 
 We design a very simple interface, showing these details:
 
-![](https://github.com/UbikCapital/ICON-Swift-Tutorials/blob/master/Part%202%20Integrating%20ICON/images/2-interface.png)
+![](https://github.com/thelionshire/ICON-Swift-Tutorial/blob/master/Part%202%20Integrating%20ICON/images/2-interface.png)
 
 Now, let us ensure we have properly connected to the ICON network, and can dynamically update our information, based on changes. We send 1 ICX to this wallet address. You can check the address in the tracker:
 
-![](https://github.com/UbikCapital/ICON-Swift-Tutorials/blob/master/Part%202%20Integrating%20ICON/images/2-trackerwallet.png)
+![](https://github.com/thelionshire/ICON-Swift-Tutorial/blob/master/Part%202%20Integrating%20ICON/images/2-trackerwallet.png)
 
 Now we reload our Swift App and see that the balance had updated. We have made the GUI a bit more aesthetically pleasing, however, the purpose of this is just to setup the integration of the ICON SDK and baseline functionality into a Swift App.
 
-![](https://github.com/UbikCapital/ICON-Swift-Tutorials/blob/master/Part%202%20Integrating%20ICON/images/2-walletwithbalance.png)
+![](https://github.com/thelionshire/ICON-Swift-Tutorial/blob/master/Part%202%20Integrating%20ICON/images/2-walletwithbalance.png)
 
 That’s it! You have successfully created and integrated the ICON wallet into your swift project!
