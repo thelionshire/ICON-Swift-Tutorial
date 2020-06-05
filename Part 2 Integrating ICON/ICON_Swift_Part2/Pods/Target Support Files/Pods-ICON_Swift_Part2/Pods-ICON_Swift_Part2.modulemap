@@ -1,0 +1,6 @@
+framework module Pods_ICON_Swift_Part2 {
+  umbrella header "Pods-ICON_Swift_Part2-umbrella.h"
+
+  export *
+  module * { export * }
+}
