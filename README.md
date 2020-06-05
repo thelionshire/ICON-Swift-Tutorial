@@ -12,4 +12,6 @@ Part 1:
   - How to begin programming in Swift
   - How to integrate the ICON SDK into XCode
 
-Stay tuned for Parts 2-4, as we dive further into ICON integration with Swift, and show different features of interacting with the blockchain!
+Stay tuned for Parts 2 to 4, as we dive further into ICON integration with Swift, and show different features of interacting with the blockchain!
+
+We will be releasing a new part of the tutorial every 2 weeks!
